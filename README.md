@@ -4,9 +4,9 @@ The Healthcare Patient Profile and Expenditure Report is a comprehensive analyti
 ## 📂 Data Source
 The analysis is performed on a multi-dimensional dataset containing patient demographics, clinical histories, and billing information.
 
-- Key Variables: BMI, HbA1c, Surgery/Transplant history, Hospital Tiering, and Total Charges.
+- **Key Variables**: BMI, HbA1c, Surgery/Transplant history, Hospital Tiering, and Total Charges.
 
-- Attributes: 17 distinct data columns providing a holistic view of the patient journey.
+- **Attributes**: 17 distinct data columns providing a holistic view of the patient journey.
 ## 📊 Key Metrics (KPIs)
 The following metrics are highlighted via high-visibility cards:
 - Patient Count: Total population size.
