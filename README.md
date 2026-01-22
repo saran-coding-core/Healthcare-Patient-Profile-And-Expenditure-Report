@@ -10,7 +10,8 @@ The analysis is performed on a multi-dimensional dataset containing patient demo
 
 - **Dataset**: <a href="https://github.com/saran-coding-core/Healthcare-Patient-Profile-And-Expenditure-Report/blob/main/healthcare%20dataset.xlsx">Healthcare Dataset</a>
 ## Dashboard Preview
-<a href="https://github.com/saran-coding-core/Healthcare-Patient-Profile-And-Expenditure-Report/blob/main/Healthcare%20Dashboard.xlsx">**Screenshot**</a>
+- <a href="https://github.com/saran-coding-core/Healthcare-Patient-Profile-And-Expenditure-Report/blob/main/Healthcare%20Dashboard.xlsx">**Dashboard Screenshot**</a>
+- <a href="https://github.com/saran-coding-core/Healthcare-Patient-Profile-And-Expenditure-Report/blob/main/Healthcare%20Dashboard.xlsx">**Dashboard Excel File**</a>
 ## 📊 Key Metrics (KPIs)
 The following metrics are highlighted via high-visibility cards:
 - **Patient Count**: Total population size.
