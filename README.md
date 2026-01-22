@@ -18,3 +18,18 @@ The following metrics are highlighted via high-visibility cards:
 - **Diabetes Rate**: Percentage of patients with a Diabetes diagnosis.
 - **Obesity Rate**: Percentage of patients categorized as obese.
 - **Total Charges**: Aggregate medical expenditure.
+## 💡 Key Insights
+- Clinical Risk & Lifestyle Factors
+  - Smoking & Oncology: Smoking prevalence is consistent across groups; 21.5% of patients with a cancer history are smokers, compared to 20.8% in the non-cancer group.
+  - Transplant Analysis: Patients with transplant histories account for 162 major surgeries and maintain a lower average HbA1c (5.2) compared to non-transplant patients (6.7).
+ 
+- Expenditure & Hospital Trends
+  - Weight Status Impact: Medical expenditure follows a clear hierarchy based on weight; costs are highest for patients with Obesity and decrease sequentially through Overweight, Normal Weight, and Under-weight categories.
+  - Diabetes Status: Paradoxically, the highest average expenditure is observed in the Normal category, followed by patients with Diabetes and Pre-diabetes.
+  - Facility Tiers: Average charges vary significantly across Hospital Tiers 1, 2, and 3, reflecting cost disparities based on facility level.
+ 
+- Statistical Correlations
+The data reveals varying degrees of correlation between patient age and health/financial outcomes:
+  - Age vs. Medical Charges: 88.4% Correlation (The strongest driver of expenditure).
+  - Age vs. HbA1c: 56.65% Correlation (Moderate relationship).
+  - Age vs. BMI: 27.47% Correlation (Weakest relationship).
