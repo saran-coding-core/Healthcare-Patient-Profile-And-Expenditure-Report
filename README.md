@@ -23,8 +23,9 @@ The following metrics are highlighted via high-visibility cards:
 - **Total Charges**: Aggregate medical expenditure.
 ## 💡 Key Insights
 - **Clinical Risk & Lifestyle Factors**
-  - **Smoking & Oncology**: Smoking prevalence is consistent across groups; 21.5% of patients with a cancer history are smokers, compared to 20.8% in the non-cancer group.
-  - **Transplant Analysis**: Patients with transplant histories account for 162 major surgeries and maintain a lower average HbA1c (5.2) compared to non-transplant patients (6.7).
+  - **Oncology & Tobacco Link**: Data indicates a higher prevalence of smoking among cancer patients (**21.5%**) compared to the general population. This suggests that smokers in this dataset face an elevated risk of cancer-related complications.
+  - **Surgical Demand in Transplants**: Transplant recipients require nearly double the surgical intervention (**avg. 1.13**) compared to non-transplant patients (**avg. 0.65**). This highlights the high-intensity clinical management and post-operative care essential for these high-risk individuals.
+  - **Glycemic Control**: Interestingly, transplant patients maintain superior glycemic control (**HbA1c 5.2**) compared to others (**6.7**), likely reflecting the success of strict medical oversight and specialized maintenance protocols.
  
 - **Expenditure & Hospital Trends**
   - **Weight Status Impact**: Medical expenditure follows a clear hierarchy based on weight; costs are highest for patients with Obesity and decrease sequentially through Overweight, Normal Weight, and Under-weight categories.
@@ -32,10 +33,10 @@ The following metrics are highlighted via high-visibility cards:
   - **Facility Tiers**: Average charges vary significantly across Hospital Tiers 1, 2, and 3, reflecting cost disparities based on facility level.
  
 - **Statistical Correlations**
-The data reveals varying degrees of correlation between patient age and health/financial outcomes:
-  - **Age vs. Medical Charges**: 88.4% Correlation (The strongest driver of expenditure).
-  - **Age vs. HbA1c**: 56.65% Correlation (Moderate relationship).
-  - **Age vs. BMI**: 27.47% Correlation (Weakest relationship).
+The following data points illustrate how biological aging serves as a primary driver for both deteriorating health markers and escalating medical costs:
+  - **Age vs. Medical Charges (88.4%)**: A strong positive correlation, identifying age as the most critical predictor of healthcare costs. Expenses rise predictably and sharply as patients age.
+  - **Age vs. HbA1c (56.65%)**: A moderate correlation, indicating that blood sugar levels trend upward with age, though lifestyle factors still play a significant secondary role.
+  - **Age vs. BMI (27.47%)**: A weak correlation, showing that weight gain is not a guaranteed byproduct of aging in this group, as BMI varies significantly across all age brackets.
 ## 🖼️ Visualizations
 - **Smoker Distribution**: Comparison across cancer history segments.
 - **Surgical Volume**: Total major surgeries by transplant status.
