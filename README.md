@@ -9,10 +9,10 @@ The analysis is performed on a multi-dimensional dataset containing patient demo
 - **Attributes**: 17 distinct data columns providing a holistic view of the patient journey.
 ## 📊 Key Metrics (KPIs)
 The following metrics are highlighted via high-visibility cards:
-- Patient Count: Total population size.
-- Average Age: Mean age across the dataset.
-- Average BMI: Population-wide Body Mass Index average.
-- Average HbA1c: Mean blood glucose indicator.
-- Diabetes Rate: Percentage of patients with a Diabetes diagnosis.
-- Obesity Rate: Percentage of patients categorized as obese.
-- Total Charges: Aggregate medical expenditure.
+- **Patient Count**: Total population size.
+- **Average Age**: Mean age across the dataset.
+- **Average BMI**: Population-wide Body Mass Index average.
+- **Average HbA1c**: Mean blood glucose indicator.
+- **Diabetes Rate**: Percentage of patients with a Diabetes diagnosis.
+- **Obesity Rate**: Percentage of patients categorized as obese.
+- **Total Charges**: Aggregate medical expenditure.
